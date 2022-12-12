@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1048523169649",
+    "project_id": "aljusooronline",
+    "storage_bucket": "aljusooronline.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048523169649:android:43f37a6b4593e4427ca0d0",
+        "android_client_info": {
+          "package_name": "com.example.aljosur_center"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048523169649-3umju06tu0o2ho7ibqohmucpe9sn8io2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aljosur_center",
+            "certificate_hash": "022506bae445466a22febb182f8bc59c12591b1d"
+          }
+        },
+        {
+          "client_id": "1048523169649-gh7s1h2bidjc001sslh9t5jivjec1j6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDk5RX-LTo3J7wjOpS1Ag9_rAdn70HtUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048523169649-gh7s1h2bidjc001sslh9t5jivjec1j6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
